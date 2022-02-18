@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shippp
-- 👀 I’m interested in Computer Forensics and Security
+- 👋 Hi, I’m @5hipp
+- 👀 I’m studying Computer Forensics and Security
 - 🌱 I’m currently learning Java and C#
 - 📫 How to reach me on Twitter @lxr
 
